@@ -1,0 +1,12 @@
+h1.branding {
+    background-color: #5A96F6;
+    padding-top: 10px;
+}
+
+div.navbar-branding > p {
+    color: #000;
+    font-size: 50%;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 75px;
+}
