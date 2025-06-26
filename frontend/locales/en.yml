@@ -1,10 +1,6 @@
 en:
   digital_object:
-    user_defined:
-      string_4: DO Import RefID
-      string_4_tooltip: |
-          <p>Reserved for DO import linking.</p>
-          <p>During import, provide the EAD Ref ID of an associated record for automated linking.</p>
+    # user_defined: See caas_user_defined_fields plugin
   archival_object:
     publish_tooltip: |
         <p>Controls the audience setting. If unchecked, will export as audience="internal" and will NOT display publicly on SOVA.</p>
@@ -31,21 +27,7 @@ en:
     disposition_tooltip: |
       <p>A note about what should be done with discards or duplicates, or a note to describe how a particular accession may have been assigned to different resources.</p>
     disposition_inline_help: Describe what should be done with discards or duplicates
-    user_defined:
-      boolean_1: Electronic Media?
-      boolean_1_tooltip: |
-        <p>Does the accession contain electronic media?</p>
-      string_1: Museum Accession ID
-      string_1_inline_help: e.g. NMAH Acc.2018-9999
-      string_1_tooltip: |
-          <p>Enter details from local museum system, such as XG, EMu</p>
-      date_1: Arrival Date
-      date_1_tooltip: |
-          <p>Enter the date that this accession arrived?</p>
-      date_1_inline_help: e.g. YYYY-MM-DD
-      enum_1: New or Addition?
-      enum_1_tooltip: |
-          <p>Is this accession new or an accrual/addition?</p>
+    # user_defined: See caas_user_defined_fields plugin
   resource:
     id_0_tooltip: |
         <p>REQUIRED FIELD. The identification number assigned to each discrete Resource within a Repository.</p>
