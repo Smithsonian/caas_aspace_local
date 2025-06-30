@@ -1,12 +1,15 @@
-h1.branding {
+div.global-header {
     background-color: #5A96F6;
-    padding-top: 10px;
 }
 
 div.navbar-branding > p {
-    color: #000;
-    font-size: 50%;
+    font-size: 1rem;
     font-style: italic;
     font-weight: bold;
-    margin-left: 75px;
+    padding-top: 10px;
+}
+
+/* testing a fix for https://archivesspace.atlassian.net/browse/ANW-2424 */
+table .col {
+    width: auto;
 }
