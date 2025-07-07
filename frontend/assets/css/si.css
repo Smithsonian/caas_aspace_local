@@ -1,0 +1,4 @@
+/* testing a fix for https://archivesspace.atlassian.net/browse/ANW-2424 */
+table .col {
+    width: auto;
+}
