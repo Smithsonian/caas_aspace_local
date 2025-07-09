@@ -1,5 +1,5 @@
 en:
-  digital_object:
+  # digital_object:
     # user_defined: See caas_user_defined_fields plugin
   archival_object:
     publish_tooltip: |
