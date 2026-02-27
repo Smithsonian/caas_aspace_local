@@ -1,4 +1,6 @@
 en:
+  footer:
+    feedback: <a id='aspaceFeedbackLink' href='%{feedback_url}' target='_blank'>Submit an SI ArchivesSpace Project Request</a>
   # digital_object:
     # user_defined: See caas_user_defined_fields plugin
   archival_object:
