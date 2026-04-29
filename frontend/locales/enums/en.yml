@@ -43,9 +43,6 @@ en:
       converted_to_gift: Converted to Gift
       notice_to_return_materials_sent: Notice to Return Materials Sent
     extent_extent_type:
-      half_inch_videotape: 1/2 inch videotape
-      1_inch_videotape: 1 inch videotape
-      2_inch_videotape: 2 inch videotape
       acetate_negatives: Acetate negatives
       albumen_prints: Albumen prints
       albums: Albums
@@ -123,7 +120,6 @@ en:
       enlarged_prints: Enlarged prints
       envelopes: Envelopes
       exhibition_catalogs: Exhibition catalogs
-      feet: Feet
       file_drawers: File drawers
       files_document_groupings: Files (document groupings)
       film_cassettes: Film cassettes
@@ -294,17 +290,20 @@ en:
       videocassette_dvcam: Videocassette (DVCam)
       videocassette_dvcpro: Videocassette (DVCPro)
       videocassette_hdcam: Videocassette (HDCam)
-      videocassettee_hdcam-sr: Videocassette (HDCAM-SR)
+      videocassette_hdcam-sr: Videocassette (HDCAM-SR)
       videocassette_hi8: Videocassette (Hi8)
       videocassette_minidv: Videocassette (MiniDV)
       videocassette_s-vhs: Videocassette (S-VHS)
       videocassette_u-matic: Videocassette (U-matic)
-      videocassettee_u-matic-s: Videocassette (U-matic S)
-      videocassettee_u-matic-sp: Videocassette (U-matic SP)
+      videocassette_u-matic-s: Videocassette (U-matic S)
+      videocassette_u-matic-sp: Videocassette (U-matic SP)
       videocassette_vhs: Videocassette (VHS)
       videocassette_vhs-c: Videocassette (VHS-C)
       videocassette_video_8: Videocassette (Video 8)
       videocassette_xdcam: Videocassette (XDCAM)
+      videotape_1_half_inch: 1/2 inch videotape
+      videotape_1_inch: 1 inch videotape
+      videotape_2_inch: 2 inch videotape
       vinyl_record: Vinyl record
       visual_works: Visual works (works)
       watercolor: Watercolor
