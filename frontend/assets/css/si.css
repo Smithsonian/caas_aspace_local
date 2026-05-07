@@ -1,3 +1,14 @@
+div.global-header {
+    background-color: #f7eaaf;
+}
+
+div.navbar-branding > p {
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
 /* testing a fix for https://archivesspace.atlassian.net/browse/ANW-2424 */
 table .col {
     width: auto;
