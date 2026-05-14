@@ -46,8 +46,17 @@ en:
       acetate_negatives: Acetate negatives
       albumen_prints: Albumen prints
       albums: Albums
+      aluminum_disc: Aluminum disc
       ambrotypes_photographs: Ambrotypes (photographs)
       autochromes_photographs: Autochromes (photographs)
+      audio_cartridge: Audio cartridge
+      audio_cartridge_8_track: Audio cartridge (8-track)
+      audio_cartridge_fidelipac: Audio cartridge (Fidelipac)
+      audio_cartridge_quarter_inch: Audio cartridge (1/4 inch)
+      audio_cassette: Audio cassette
+      audio_cassette_dat: Audio cassette (DAT)
+      audio_cassette_microcassette: Audio cassette (Microcassette)
+      audio_cd: Audio CD
       awards: Awards
       binders: Binders
       blueprint_map: Blueprint map
@@ -106,23 +115,18 @@ en:
       documents: Documents
       drawings_visual_works: Drawings (visual works)
       drawings: Drawings
-      dvd: DVD
       electronic_discs_cd: Electronic discs (CD)
-      electronic_discs_dvd: Electronic discs (DVD)
       engravings: Engravings
       enlarged_prints: Enlarged prints
       envelopes: Envelopes
       exhibition_catalogs: Exhibition catalogs
-      feet: Feet
       file_drawers: File drawers
       files_document_groupings: Files (document groupings)
-      film_cartridges: Film cartridges
       film_cassettes: Film cassettes
       film_items: Film items
       film_loops: Film loops
       film_negative: Film negative
       film_positives: Film positives
-      film_reels: Film reels
       film_transparency: Film transparency
       flat_boxes: Flat boxes
       floppy_discs: Floppy discs
@@ -130,6 +134,8 @@ en:
       framed_photograph: Framed photograph
       framed_print: Framed print
       frames: Frames
+      full_coat_magnetic_audio_16mm: Full coat magnetic audio (16mm)
+      full_coat_magnetic_audio_35mm: Full coat magnetic audio (35mm)
       gelatin_silver_prints: Gelatin silver prints
       gelatin_silver_transparencies: Gelatin silver transparencies
       glass_lantern_slide: Glass lantern slide
@@ -141,11 +147,14 @@ en:
       glass_slides: Glass slides
       glass_transparencies: Glass transparencies
       graphite_drawings: Graphite drawings
+      grooved_audio_disc: Grooved audio disc
+      grooved_dictabelt: Grooved Dictabelt
       hard_drives: Hard drives
       hours_audio_tape: Hours audio tape
       hours_video_tape: Hours video tape
       issues: Issues (object groupings)
       items: Items
+      lacquer_disc: Lacquer disc
       lantern_slides: Lantern slides
       leaves_gathered_matter_components: Leaves (gathered matter components)
       ledgers: Ledgers
@@ -160,11 +169,21 @@ en:
       microfiches: Microfiches
       microfilm_reels: Microfilm reels
       microfilm: Microfilm
+      minidisc: MiniDisc
       minutes: Minutes
       modern_copy_tintype: Modern copy tintype
       modern_prints: Modern prints
       modern_reprints: Modern reprints
-      motion_picture_films: Motion picture films
+      motion_picture_film: Motion picture film
+      motion_picture_film_8mm: Motion picture film (8mm)
+      motion_picture_film_16mm: Motion picture film (16mm)
+      motion_picture_film_cartridge: Motion picture film (cartridge)
+      motion_picture_film_super_8mm: Motion picture film (Super 8mm)
+      motion_picture_film_super_16mm: Motion picture film (Super 16mm)
+      motion_picture_film_super_35mm: Motion picture film (35mm)
+      motion_picture_film_super_60mm: Motion picture film (60mm)
+      motion_picture_film_super_66mm: Motion picture film (66mm)
+      motion_picture_film_super_70mm: Motion picture film (70mm)
       mounted_color_prints: Mounted color prints
       mounted_copy_prints: Mounted copy prints
       mounted_photographs: Mounted photographs
@@ -175,6 +194,16 @@ en:
       negatives: Negatives
       nitrate_negatives: Nitrate negatives
       notebooks: Notebooks
+      open_reel_audiotape: Open reel audiotape
+      open_reel_audiotape_quarter_inch: Open reel audiotape (1/4 inch)
+      open_reel_audiotape_half_inch: Open reel audiotape (1/2 inch)
+      open_reel_audiotape_1_inch: Open reel audiotape (1 inch)
+      open_reel_audiotape_2_inch: Open reel audiotape (2 inch)
+      open_reel_videotape: Open reel videotape
+      optical_video_disc: Optical video disc
+      optical_video_disc_blu-ray: Optical video disc (Blu-ray)
+      optical_video_disc_dvd: Optical video disc (DVD)
+      optical_video_disc_laserdisc: Optical video disc (LaserDisc)
       oversize_folders: Oversize folders
       pages: Pages
       painted_photographs: Painted photographs
@@ -229,23 +258,10 @@ en:
       slide_viewers: Slide viewers
       slides_photographs: Slides (photographs)
       slides: Slides
-      sound_cartridges_8_track: Sound cartridges (8 track)
-      sound_cartridges_fidelipac: Sound cartridges (Fidelipac)
-      sound_cartridges: Sound cartridges
-      sound_cassettes_dat: Sound cassettes (DAT)
-      sound_cassettes_microcassette: Sound cassettes (microcassette)
-      sound_cassettes: Sound cassettes
       sound_cylinders: Sound cylinders
-      sound_discs_aluminum: Sound discs (aluminum)
-      sound_discs_cd: Sound discs (CD)
-      sound_discs_lacquer: Sound discs (lacquer)
-      sound_discs_minidisc: Sound discs (Minidisc)
-      sound_discs_vinyl: Sound discs (vinyl)
-      sound_discs: Sound discs
       sound_disk_cdr: Sound disk CD-R
       sound_recordings: Sound recordings
       sound_tape_reels_nagra_sn: Sound tape reels (NAGRA SN)
-      sound_tape_reels: Sound tape reels
       sound_tapes: Sound tapes
       sound_track_film_reels: Sound track film reels
       sound_wire_reels: Sound wire reels
@@ -260,35 +276,38 @@ en:
       undetermined: Undetermined
       usb_flash_drive: USB flash drive
       video_recordings: Video recordings
-      videocartridges: Videocartridges
+      video_cartridge: Video cartridge
+      videocassette: Videocassette
       videocassette_beta: Videocassette (Beta)
-      videocassettes_betacam: Videocassettes (Betacam)
-      videocassettes_betacamsp: Videocassettes (BetacamSP)
-      videocassettes_betamax: Videocassettes (Betamax)
-      videocassettes_d-1: Videocassettes (D-1)
-      videocassettes_d-2: Videocassettes (D-2)
-      videocassettes_digital_betacam: Videocassettes (Digital Betacam)
-      videocassettes_dvcam: Videocassettes (DVCam)
-      videocassettes_dvcpro: Videocassettes (DVCPro)
-      videocassettes_hdcam: Videocassettes (HDCam)
-      videocassettes_hi8: Videocassettes (Hi8)
-      videocassettes_minidv: Videocassettes (MiniDV)
-      videocassettes_s-vhs: Videocassettes (S-VHS)
-      videocassettes_u-matic: Videocassettes (U-matic)
-      videocassettes_vhs-c: Videocassettes (VHS-C)
-      videocassettes_vhs: Videocassettes (VHS)
-      videocassettes_video_8: Videocassettes (Video 8)
-      videocassettes: Videocassettes
-      videodiscs_bluray: Videodiscs (Blu-ray)
-      videodiscs_dvd: Videodiscs (DVD)
-      videodiscs_laser: Videodiscs (laser)
-      videodiscs: Videodiscs
-      videoreels_1_inch: Videoreels (1 inch)
-      videoreels_2_inch: Videoreels (2 inch)
-      videoreels_half_inch: Videoreels (1/2 inch)
-      videoreels: Videoreels
+      videocassette_betacam: Videocassette (Betacam)
+      videocassette_betacamsp: Videocassette (BetacamSP)
+      videocassette_betamax: Videocassette (Betamax)
+      videocassette_d-1: Videocassette (D1)
+      videocassette_d-2: Videocassette (D2)
+      videocassette_d-3: Videocassette (D3)
+      videocassette_digital_8: Videocassette (Digital 8)
+      videocassette_digital_betacam: Videocassette (Digital Betacam)
+      videocassette_dvcam: Videocassette (DVCam)
+      videocassette_dvcpro: Videocassette (DVCPro)
+      videocassette_hdcam: Videocassette (HDCam)
+      videocassette_hdcam-sr: Videocassette (HDCAM-SR)
+      videocassette_hi8: Videocassette (Hi8)
+      videocassette_minidv: Videocassette (MiniDV)
+      videocassette_s-vhs: Videocassette (S-VHS)
+      videocassette_u-matic: Videocassette (U-matic)
+      videocassette_u-matic-s: Videocassette (U-matic S)
+      videocassette_u-matic-sp: Videocassette (U-matic SP)
+      videocassette_vhs: Videocassette (VHS)
+      videocassette_vhs-c: Videocassette (VHS-C)
+      videocassette_video_8: Videocassette (Video 8)
+      videocassette_xdcam: Videocassette (XDCAM)
+      videotape_1_half_inch: 1/2 inch videotape
+      videotape_1_inch: 1 inch videotape
+      videotape_2_inch: 2 inch videotape
+      vinyl_record: Vinyl record
       visual_works: Visual works (works)
       watercolor: Watercolor
+      wire_recording: Wire recording
     file_version_use_statement:
       audio-use: Audio-Use
       electronic-record-master: Electronic-Record-Master
