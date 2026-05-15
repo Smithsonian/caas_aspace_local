@@ -12,14 +12,14 @@
     <div class="subrecord-form-fields">
       <div class="row">
         <% if auth_present %>
-          <div class="col-md-3"><strong><%= t("subject.authority_id") %></strong></div>
+          <div class="col-md-4"><strong><%= t("subject.authority_id") %></strong></div>
           <div class="col-md-8"><strong><%= t("subject.heading") %></strong></div>
         <% end %>
       </div>
       <% subjects.each_with_index do | subject, index | %>
         <div class="row">
           <% if auth_present %>
-            <div class="col-md-3 pull1">
+            <div class="col-md-4 pull1">
               <% if subject['_resolved']["authority_id"] %>
                 <%= subject['_resolved']["authority_id"] %>
               <% else %>
