@@ -62,6 +62,7 @@ en:
       blueprint_map: Blueprint map
       blueprints: Blueprints
       booklets: Booklets
+      books: Books
       boxes: Boxes
       brochures: Brochures
       cabinet_photographs: Cabinet photographs
@@ -362,10 +363,12 @@ en:
       bne: Biblioteca Nacional de España
       ewc: Encyclopedia of World Cultures
       hraf: Human Relations Area Files
+      hs: Homosaurus - Version 5
       lctgm: Thesaurus for Graphic Materials
       nmaict: National Museum of the American Indian Culture Thesaurus
       smda: Smithsonian National Air and Space Museum Directory of Airplanes
       source_not_specified: Source Not Specified
+      wd: WikiData
     subject_term_type:
       cultural_context: Culture
       topical: Topic
