@@ -1,0 +1,14 @@
+<% if user_can?('cancel_job') && ["queued", "running"].include?(@job.status) && "true" == AppConfig[:jobs_cancelable].to_s %>
+  <% if job_types[@job.job_type] && job_types[@job.job_type]['cancel_permissions'].reject{|perm| user_can?(perm)}.empty? && @job.job_type != "bulk_archival_object_updater_job" %>
+  <%# && @job.job_type != "bulk_archival_object_updater_job" - the following was added to prevent any user from cancelling a bulk_archival_object_update job, which would cause a DB rollback, resulting in ArchivesSpace being in an unusable state for all users/repos - CS 2026-07-21 #%>
+    <div class="record-toolbar d-flex align-items-center">
+      <div class="btn-group btn-toolbar ml-auto bg-white">
+        <div class="btn btn-inline-form">
+          <%= button_confirm_action t("job._frontend.actions.cancel"), url_for(:controller => :jobs, :action => :cancel, :id => @job.id), {
+            :class => "btn btn-sm btn-danger"
+              } %>
+        </div>
+      </div>
+    </div>
+  <% end %>
+<% end %>
