@@ -11,6 +11,12 @@ en:
       propagation: Propagation
       transfer_governmental: Governmental Transfer 
       transfer_internal: Internal Transfer
+    accession_resource_type:
+      collection: Collection
+      papers: Papers
+      publications: Publications
+      records: Records
+      oral_history: Oral History
     collection_management_processing_status:
       processed: Processed
       unprocessed: Unprocessed
